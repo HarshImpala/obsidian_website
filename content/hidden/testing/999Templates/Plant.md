@@ -9,7 +9,3 @@ Which one:
 Gifted away: false
 Died: false
 ---
-this plant is in the [[Bedroom]]
-it is an [[Epipenum]]
-
-![[epiprenum_golden.jpg]]

@@ -1,3 +1,23 @@
+---
+title: Some Title?
+draft: false
+tags:
+To gift?: false
+Date acquired:
+How many owned:
+Which one:
+Gifted away: false
+Died: false
+---
+
+Dendrobium pugioniforme, commonly known as dagger orchid is a species of orchid endemic to eastern Australia. It is an epiphytic or lithophytic orchid with pendulous, wiry stems, fleshy, sharply pointed  leaves and flowering stems with one or two greenish or yellowish flowers with a white labellum. It grows on trees and rocks, mostly in humid forest....
+## Taxonomy
+    | Rank    | Taxon                 |
+    |---------|-----------------------|
+    | Family  | **Dendrobium**   |
+    | Genus   | *—*      |
+    | Species | *Dendrobium pugioniforme*    |
+    
 
 this plant is in the [[Bedroom]]
 this is an [[Orchidea]]
