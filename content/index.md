@@ -1,12 +1,10 @@
 ---
-title: Welcome to Quartz
+title: Some title
+draft: false
+tags:
+  - example-tag
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
-
-
 
 # Hello World!!!!
 
-[[test note]]
+Welcome to a catalogue of my plants
