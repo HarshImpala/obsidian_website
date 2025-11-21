@@ -236,7 +236,6 @@ export const customImage: SocialImageOptions["imageStructure"] = (
 
 The following example includes a customized social image with a custom background and formatted date:
 
-{% raw %}
 ```typescript title="custom-og.tsx"
 export const og: SocialImageOptions["Component"] = (
   cfg: GlobalConfiguration,
@@ -248,12 +247,10 @@ export const og: SocialImageOptions["Component"] = (
 ) => {
   let created: string | undefined
   let reading: string | undefined
-
   if (fileData.dates) {
     created = formatDate(getDate(cfg, fileData)!, cfg.locale)
   }
-
-  const { minutes } = readingTime(fileData.text!)
+  const { minutes, text: _timeTaken, words: _words } = readingTime(fileData.text!)
   reading = i18n(cfg.locale).components.contentMeta.readingTime({
     minutes: Math.ceil(minutes),
   })
@@ -269,7 +266,7 @@ export const og: SocialImageOptions["Component"] = (
         alignItems: "flex-start",
         height: "100%",
         width: "100%",
-        backgroundImage: "url(\"https://" + cfg.baseUrl + "/static/og-image.jpeg\")",
+        backgroundImage: `url("https://${cfg.baseUrl}/static/og-image.jpeg")`,
         backgroundSize: "100% 100%",
       }}
     >
@@ -280,11 +277,9 @@ export const og: SocialImageOptions["Component"] = (
           left: 0,
           right: 0,
           bottom: 0,
-          background:
-            "radial-gradient(circle at center, transparent, rgba(0, 0, 0, 0.4) 70%)",
+          background: "radial-gradient(circle at center, transparent, rgba(0, 0, 0, 0.4) 70%)",
         }}
       />
-
       <div
         style={{
           display: "flex",
@@ -300,16 +295,14 @@ export const og: SocialImageOptions["Component"] = (
         }}
       >
         <img
-          src={"https://" + cfg.baseUrl + "/static/icon.jpeg"}
+          src={`"https://${cfg.baseUrl}/static/icon.jpeg"`}
           style={{
             position: "relative",
             backgroundClip: "border-box",
             borderRadius: "6rem",
           }}
           width={80}
-          alt=""
         />
-
         <div
           style={{
             display: "flex",
@@ -329,7 +322,6 @@ export const og: SocialImageOptions["Component"] = (
           >
             {title}
           </h2>
-
           <ul
             style={{
               color: cfg.theme.colors[colorScheme].gray,
@@ -338,12 +330,13 @@ export const og: SocialImageOptions["Component"] = (
               fontFamily: fonts[1].name,
             }}
           >
-            {Li.map((item, index) =>
-              item ? <li key={index}>{item}</li> : null
-            )}
+            {Li.map((item, index) => {
+              if (item) {
+                return <li key={index}>{item}</li>
+              }
+            })}
           </ul>
         </div>
-
         <p
           style={{
             color: cfg.theme.colors[colorScheme].light,
@@ -364,4 +357,4 @@ export const og: SocialImageOptions["Component"] = (
     </div>
   )
 }
-
+```
