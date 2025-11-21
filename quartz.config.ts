@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins";
  */
 const config: QuartzConfig = {
 	configuration: {
-		pageTitle: "Isaks Cool Obsidian Vault",
+		pageTitle: "Aaron's plants",
 		pageTitleSuffix: "",
 		enableSPA: true,
 		enablePopovers: true,

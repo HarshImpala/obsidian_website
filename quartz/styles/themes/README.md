@@ -1,19 +1,21 @@
-# Obsidian gruvbox
+# AnuPpuccin
 
-- Theme: Obsidian gruvbox
-- Author: <a href="https://insanum.com" target="_blank" rel="noopener noreferrer">insanum</a>
+- Theme: AnuPpuccin
+- Author: <a href="https://github.com/AnubisNekhet" target="_blank" rel="noopener noreferrer">Anubis</a>
 
 ## Preview
 
-[Open live preview](https://quartz-themes.github.io/obsidian-gruvbox/)
+[Open live preview (Quartz)](https://quartz-themes.github.io/anuppuccin/)
 
-## Usage
+[Open live preview (Publish)](https://publish.saberzero.one/anuppuccin)
+
+## Usage (Quartz)
 
 ### GitHub Actions
 
 ```yaml
 env:
-  THEME_NAME: obsidian-gruvbox
+  THEME_NAME: anuppuccin
 ```
 
 ```yaml
@@ -26,7 +28,7 @@ env:
 ```bash
 curl -s -S -o action.sh https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh
 
-./action.sh obsidian-gruvbox
+./action.sh anuppuccin
 ```
 
 ### Manual install
@@ -46,3 +48,9 @@ Then, add the following to your `quartz/styles/custom.scss` file after the `@use
 
 > [!IMPORTANT]
 > This setup method is not yet available. It is currently being tested and will be released in the future.
+
+## Usage (Publish)
+
+Download the [publish.css](./publish.css) file and copy it into your Obsidian Publish vault.
+
+Then, in Obsidian Publish, open the Publish modal and select the `publish.css` file and click the "Publish" button at the bottom.
