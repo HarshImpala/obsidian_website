@@ -47,7 +47,7 @@ for %%G in (%*) do (
 
 if "%result%"=="" (
   echo [WARN] No theme provided, defaulting to Tokyo Night...
-  set "result=tokyo-night"
+  set "result=AnnuPpuccin"
 )
 
 REM Convert to lowercase using PowerShell (requires PowerShell)
