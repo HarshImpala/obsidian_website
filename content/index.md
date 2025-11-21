@@ -1,9 +1,3 @@
----
-title: Some title
-draft: false
-tags:
-  - example-tag
----
 
 # Hello World!!!!
 
