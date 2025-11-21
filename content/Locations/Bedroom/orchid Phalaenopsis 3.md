@@ -1,5 +1,5 @@
 ---
-title: Some Title?
+title: Orchid Phalaenopsis
 draft: false
 tags:
 To gift?: false
@@ -10,17 +10,15 @@ Gifted away: false
 Died: false
 ---
 
-Phalaenopsis amabilis, commonly known as moon orchid, moth orchid, or mariposa orchid, is a species of flowering plant in the orchid family Orchidaceae. It is widely cultivated as a decorative houseplant. It is an epiphytic or lithophytic herb with long, thick roots, between two and eight thick, fleshy leaves with their bases hiding the stem and nearly flat, white, long-lasting flowers on a branching flowering stem with up to ten flowers on each branch.
-Phalaenopsis amabilis is native to Maritime Southeast Asia, New Guinea, and Australia. It has three subspecies: P. a. amabilis, native to the Philippines (Palawan), Malaysia (Borneo), Indonesia (Borneo, Sumatra, and Java); P. a. moluccana, native to the Maluku Islands (Seram and Buru Islands) and Sulawesi of Indonesia; and P. a. rosenstromii, native to Papua New Guinea and Australia (northeastern Queensland).
-Phalaenospsis amabilis is one of the three national flowers of Indonesia, where it is known as anggrek bulan (lit. "moon orchid")....
+## Wiki summary
+
+Phalaenopsis (), also known as moth orchids, is a genus of about seventy species of plants in the family Orchidaceae. Orchids in this genus are monopodial epiphytes or lithophytes with long, coarse roots, short, leafy stems and long-lasting, flat flowers arranged in a flowering stem that often branches near the end. Orchids in this genus are native to Asia, New Guinea, and Australia, but mostly occur in Indonesia and the Philippines....
 ## Taxonomy
-    | Rank    | Taxon                 |
-    |---------|-----------------------|
-    | Family  | **Phalaenopsis**   |
-    | Genus   | *Orchidaceae*      |
-    | Species | *Phalaenopsis amabilis*    |
-    
-this plant is in the [[Bedroom]]
-this is an [[Orchidea]]
+
+| Rank    | Taxon |
+|---------|------------------------|
+| Family  | *None* |
+| Genus   | **Orchidaceae** |
+| Species | *None* |
 
 ![[orchid Phalaenopsis 3.jpg]]

@@ -1,5 +1,5 @@
 ---
-title: Some Title?
+title: Bromelia
 draft: false
 tags:
 To gift?: false
@@ -10,20 +10,19 @@ Gifted away: false
 Died: false
 ---
 
+## Wiki summary
+
 The Bromeliaceae (the bromeliads) are a family of monocot flowering plants of about 80 genera and 3700 known species, native mainly to the tropical Americas, with several species found in the American subtropics and one in tropical west Africa, Pitcairnia feliciana.
 It is among the basal families within the Poales and is the only family within the order that has septal nectaries and inferior ovaries. These inferior ovaries characterize the Bromelioideae, a subfamily of the Bromeliaceae. The family includes both epiphytes, such as Spanish moss (Tillandsia usneoides), and terrestrial species, such as the pineapple (Ananas comosus). Many bromeliads, colloquially called "tank bromeliads", are able to store water in a structure (a "tank") formed by their tightly overlapping leaf bases. However, the family is diverse enough to include the tank bromeliads, grey-leaved epiphyte Tillandsia species that gather water only from leaf structures called trichomes, and many desert-dwelling succulents.
 The largest bromeliad is Puya raimondii, which reaches 3–4 metres (10–13 ft) tall in vegetative growth with a flower spike 9–10 metres (30–33 ft) tall, and the smallest are some Tillandsia species.
 
 ...
 ## Taxonomy
-    | Rank    | Taxon                 |
-    |---------|-----------------------|
-    | Family  | **—**   |
-    | Genus   | *Bromeliaceae*      |
-    | Species | *—*    |
-    
-this plant is in the [[Bedroom]]
 
+| Rank    | Taxon |
+|---------|------------------------|
+| Family  | *None* |
+| Genus   | **Bromeliaceae** |
+| Species | *None* |
 
-
-![[bromelia 1.jpg]]
+![[bromelia.jpg]]
