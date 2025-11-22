@@ -2,6 +2,7 @@
 title: Dracaena sanderiana
 draft: false
 tags:
+  - Dracaena
 To gift?: false
 Date acquired:
 How many owned:

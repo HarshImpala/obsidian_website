@@ -2,6 +2,9 @@
 title: monstera deliciosa variegata
 draft: false
 tags:
+  - Monstera
+  - Deliciosa
+  - variegata
 To gift?: false
 Date acquired:
 How many owned:

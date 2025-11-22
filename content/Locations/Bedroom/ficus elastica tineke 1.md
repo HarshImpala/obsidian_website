@@ -2,6 +2,7 @@
 title: ficus elastica tineke
 draft: false
 tags:
+  - Ficus
 To gift?: false
 Date acquired:
 How many owned:

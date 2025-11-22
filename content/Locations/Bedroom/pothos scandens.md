@@ -2,6 +2,7 @@
 title: pothos scandens
 draft: false
 tags:
+  - Pothos
 To gift?: false
 Date acquired:
 How many owned:

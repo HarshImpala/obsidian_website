@@ -2,6 +2,7 @@
 title: Alocasia melo
 draft: false
 tags:
+  - Alocasia
 To gift?: false
 Date acquired:
 How many owned:

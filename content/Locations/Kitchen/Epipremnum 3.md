@@ -1,5 +1,5 @@
 ---
-title: Epipremnum aureum (neon)
+title: Epipenum snow queen
 draft: false
 tags:
   - Epipremnum
@@ -26,4 +26,4 @@ The plant has gained the Royal Horticultural Society's Award of Garden Merit.
 | Genus   | **Araceae** |
 | Species | *Epipremnum aureum* |
 
-![[pothos neon.jpg]]
+![[epipremnum snow queen.jpg]]

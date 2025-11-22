@@ -1,9 +1,10 @@
 ---
-title: monstera deliciosa
+title: monstera deliciosa Thai constellation
 draft: false
 tags:
   - Monstera
   - Deliciosa
+  - thai_con
 To gift?: false
 Date acquired:
 How many owned:
@@ -24,4 +25,4 @@ Monstera deliciosa is native to tropical forests of southern Mexico, south to Pa
 | Genus   | **Araceae** |
 | Species | *Monstera deliciosa* |
 
-![[monstera deliciosa.jpg]]
+![[monstera_deliciosa_thai_const_1.jpg]]

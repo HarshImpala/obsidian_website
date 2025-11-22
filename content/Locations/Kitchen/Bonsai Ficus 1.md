@@ -1,8 +1,9 @@
 ---
-title: Alocasia portoi
+title: Bonsai Ficus
 draft: false
 tags:
-  - Alocasia
+  - Bonsai
+  - Ficus
 To gift?: false
 Date acquired:
 How many owned:
@@ -11,8 +12,7 @@ Gifted away: false
 Died: false
 ---
 it is located in the [[Kitchen]]
-this is an [[Alocasia]] portoi
+this a [[Ficus]] 
+it is a [[Bonsai]] [[Tree]]
 
-
-
-![[alocasia_portoi.jpg]]
+![[ficus_bonsai_1.jpg]]

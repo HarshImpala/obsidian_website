@@ -2,6 +2,7 @@
 title: epiprenum golden on moss pole
 draft: false
 tags:
+  - Epipremnum
 To gift?: false
 Date acquired:
 How many owned:

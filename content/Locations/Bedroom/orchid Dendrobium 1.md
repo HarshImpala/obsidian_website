@@ -2,6 +2,8 @@
 title: Orchid Dendrobium
 draft: false
 tags:
+  - Ochid
+  - Dendrobium
 To gift?: false
 Date acquired:
 How many owned:

@@ -2,6 +2,7 @@
 title: Bromelia
 draft: false
 tags:
+  - Bromelia
 To gift?: false
 Date acquired:
 How many owned:

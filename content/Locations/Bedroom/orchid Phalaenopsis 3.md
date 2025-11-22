@@ -2,6 +2,8 @@
 title: Orchid Phalaenopsis
 draft: false
 tags:
+  - Orchid
+  - Phalaenopsis
 To gift?: false
 Date acquired:
 How many owned:

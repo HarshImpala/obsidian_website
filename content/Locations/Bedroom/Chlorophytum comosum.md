@@ -2,6 +2,7 @@
 title: Chlorophytum comosum
 draft: false
 tags:
+  - Chlorophytum
 To gift?: false
 Date acquired:
 How many owned:

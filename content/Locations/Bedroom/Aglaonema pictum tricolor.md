@@ -2,6 +2,7 @@
 title: Aglaonema pictum tricolor
 draft: false
 tags:
+  - Aglaonema
 To gift?: false
 Date acquired:
 How many owned:

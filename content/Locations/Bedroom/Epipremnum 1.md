@@ -2,6 +2,7 @@
 title: epipenum golden aquarium
 draft: false
 tags:
+  - Epipremnum
 To gift?: false
 Date acquired:
 How many owned:

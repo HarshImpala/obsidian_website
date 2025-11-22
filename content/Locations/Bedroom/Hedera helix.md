@@ -2,6 +2,7 @@
 title: Hedera helix
 draft: false
 tags:
+  - Hedera
 To gift?: false
 Date acquired:
 How many owned:

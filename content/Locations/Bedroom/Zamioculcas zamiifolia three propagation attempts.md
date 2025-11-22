@@ -2,6 +2,7 @@
 title: Zamioculcas zamiifolia
 draft: false
 tags:
+  - Zamioculcas
 To gift?: false
 Date acquired:
 How many owned:

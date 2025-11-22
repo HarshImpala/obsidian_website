@@ -2,6 +2,7 @@
 title: Dracaena trifasciata
 draft: false
 tags:
+  - Dracaena
 To gift?: false
 Date acquired:
 How many owned:
